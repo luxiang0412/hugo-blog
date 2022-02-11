@@ -1,0 +1,4 @@
+baseURL = 'https://luxiangs.com/'
+languageCode = 'zh-cn'
+title = 'luxiang'
+theme = "hugo-theme-bootstrap"
