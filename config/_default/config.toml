@@ -1,5 +1,5 @@
 baseURL = "https://luxiangs.com"
-title = "Hugo Bootstrap"
+title = "luxiang blog"
 theme = "hugo-theme-bootstrap"
 copyright = "Copyright © 2022-{year} luxiang. All Rights Reserved."
 

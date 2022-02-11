@@ -1,6 +1,5 @@
 name = "luxiang"
-# avatar = "images/profile.png" # Avatar image. Default to "images/profile.webp".
-avatar = "images/profile.png"
+avatar = "images/profile.png" # Avatar image. Default to "images/profile.webp".
 bio = "Javaer"
 company = 'shudao'
 # company = '<a href="https://example.com" target="_blank" rel="noopener noreferrer">Company</a>'
